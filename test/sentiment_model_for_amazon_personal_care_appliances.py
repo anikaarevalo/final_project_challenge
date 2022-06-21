@@ -191,5 +191,5 @@ print(labels[label[0]])
 
 """**This returns ‘Positive’. Having tried several other types of sentences, the model performed fairly well in predicting the sentiment of the sentences.**
 
-## CONCLUSION
+## CONCLUSION (to follow)
 """
