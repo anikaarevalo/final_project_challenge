@@ -28,7 +28,7 @@ In the repository you can find the **requirements.txt** file. Make sure that the
                   
 ## Contributor
 
-⚛️Anika Arevalo (Jr. AI Data Operator, BeCode in Ghent)
+⚛️**Anika Arevalo (Jr. AI Data Operator, BeCode in Ghent)**
 
 https://www.linkedin.com/in/anika-arevalo/
 
