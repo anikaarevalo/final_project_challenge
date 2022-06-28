@@ -18,7 +18,7 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 ## Data Sources ##
 
 
-- **[The Tensorflow database (US)](https://www.tensorflow.org/datasets/catalog/amazon_us_reviews)** for both training and testing data 
+- **[The Tensorflow database (Amazon US)](https://www.tensorflow.org/datasets/catalog/amazon_us_reviews)** for both training and testing data 
 - **Research material on Natural Language Processing (NLP) models** and available libraries were sourced from the following:
   
 
