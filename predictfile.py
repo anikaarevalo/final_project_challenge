@@ -1,5 +1,3 @@
-
-
 # Installing machine learning and NLP libraries
 import tensorflow as tf
 
