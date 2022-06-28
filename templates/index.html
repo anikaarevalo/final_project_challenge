@@ -19,13 +19,13 @@
   <div class="d-flex flex-column min-vh-100 justify-content-center align-items-center">
     <main>
       <div class="container">
-        <form>
+        <form method="post" target="">
             <h1 class="h3 mb-3 fw-normal">Customer Review Rating</h1>
-
+            
             <!-- textarea + label -->
             <div class="">
-                <label for="exampleFormControlTextarea1" class="form-label">Paste your text below</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
+                <label for="review" class="form-label">Paste your text below</label>
+                <textarea class="form-control" name='review' id="review" rows="4"></textarea>
             </div>
 
             <!-- button -->
@@ -33,14 +33,14 @@
             <button class="w-100 btn btn-lg btn-primary" type="submit">Process</button>
             <div class="mb-3"></div>
 
-            {% if result_positive %}
+            {% if result == "Positive" %}
             <!-- result positive -->
             <div class="mb-3" id="positive">
                 <h3 class="text-success"><i class="bi bi-hand-thumbs-up-fill"></i> positive</h3>
             </div>
             {% endif %}
 
-            {% result_negative %}
+            {% if result == "Negative" %}
             <!-- result negative -->
             <div class="mb-3" id="negative">
                 <h3 class="text-danger"> <i class="bi bi-hand-thumbs-down-fill"></i> negative</h3>
@@ -57,3 +57,4 @@
   </div>  
   </body>
 </html>
+ A function that predicts label (positive or negative) when user inputs according to the parameters of the TFDistilBertForSequenceClassification model
