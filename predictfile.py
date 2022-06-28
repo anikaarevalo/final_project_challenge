@@ -16,7 +16,7 @@ def predict_label(client_review):
     # Initializing a tokenizer
     tokenizer = DistilBertTokenizerFast.from_pretrained('distilbert-base-uncased-finetuned-sst-2-english')
     # Loading the saved re-trained, pre-trained DistilBert NLP model
-    loaded_model = TFDistilBertForSequenceClassification.from_pretrained('drive/MyDrive/tdb_sentiment')
+    loaded_model = TFDistilBertForSequenceClassification.from_pretrained('./tdb_sentiment')
 
     # Predicting on unseen/new data
     predict_input = tokenizer.encode(client_review,
