@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# model
+# transformer model
 tdb_sentiment/
