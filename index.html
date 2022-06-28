@@ -33,15 +33,19 @@
             <button class="w-100 btn btn-lg btn-primary" type="submit">Process</button>
             <div class="mb-3"></div>
 
+            {% if result_positive %}
             <!-- result positive -->
             <div class="mb-3" id="positive">
                 <h3 class="text-success"><i class="bi bi-hand-thumbs-up-fill"></i> positive</h3>
             </div>
+            {% endif %}
 
+            {% result_negative %}
             <!-- result negative -->
             <div class="mb-3" id="negative">
                 <h3 class="text-danger"> <i class="bi bi-hand-thumbs-down-fill"></i> negative</h3>
             </div>
+            {% endif %}
 
 
             <p class="mt-5 mb-3 text-muted">&copy; Anika Arevalo</p>
