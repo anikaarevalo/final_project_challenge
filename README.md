@@ -25,7 +25,7 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 ## Visuals ## 
 
 
-<img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/final_project_challenge/blob/eae5a493701ed30c7149193e7cc913980f4f4b44/assets/positive_review.png">
+<img width="650" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/final_project_challenge/blob/eae5a493701ed30c7149193e7cc913980f4f4b44/assets/positive_review.png">
 
 
 
