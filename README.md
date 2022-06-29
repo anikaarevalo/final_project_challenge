@@ -78,5 +78,5 @@ https://www.linkedin.com/in/anika-arevalo/
 ## Personal situation ##
 This machine leaning softare is a minimum viable product (MVP) and would indeed benefit from further optimisation. Although I am impressed by the computational power of the model to accurately predict customer sentiment, this app can be further developed in the following ways:
 - Upgrading the app to perform a **fine-grain sentiment analysis** that takes a 'neutral' position into consideration. 
-- Developing a second pipeline that can be integrated into the based pipeline in order to extract keywords. (See it on the file **LDA_Mallet_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** in the **'test' folder**).
+- Developing a second pipeline that can be integrated into the base pipeline in order to extract keywords. (Come see in the file **LDA_Mallet_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** inside the **'test' folder**).
 - Massive pre-trained machine learning models run the risk of overfitting (ie 'overgeneralising' from the initial data set to unseen yet relevant data), so for those who want to take my app for a spin, let me know if it indeed does! Thank you! 😊  
