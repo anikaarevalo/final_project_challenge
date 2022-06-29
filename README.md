@@ -19,7 +19,7 @@ I acquired the dataset needed for developing a machine learning solution from **
 
 3. ***What are the latest free and open-source software to accomplish the task?***
 
-I was given the wonderful opportunity of building the use case so I chose 'Natural Language Processing' (NLP) to be able to access and deploy a deep learning model for the first time. I had been intrigued by BERT, the state-of-the-art general-purpose NLP model developed by Google, and the transformer technique behind it. As an advocate of free and open-source software, I decided to give **distilBERT**--a lighter yet powerful version of BERT--a try. Reduced in size by 40%, distilBERT retains 97% of BERT's language understanding capabilities but at 60% faster--I was convinced.  
+I was given the wonderful opportunity of building the use case so I chose 'Natural Language Processing' (NLP) to be able to access and deploy a deep learning model for the first time. I had been intrigued by BERT, the state-of-the-art general-purpose NLP model developed by Google, and the transformer technique behind it. As an advocate of free and open-source software, I decided to give **distilBERT**--a lighter yet powerful version of BERT from the HuggingFace🤗** library--a try. Reduced in size by 40%, distilBERT retains 97% of BERT's language understanding capabilities but at 60% faster--I was convinced.  
 
 
 ## The App ##
