@@ -11,7 +11,7 @@ My approach to this use case took form and direction by answering the following 
 
 1. ***Who needs help?*** 
 
-Amazon is in fact coming very soon to cater specifically to the Belgian market, so instinctively I thought of **Belgium-based online retailers** who will benefit from a simple, efficient and reliable app to track customer sentiment that informs their digital marketing strategy.  
+Amazon is in fact coming very soon to cater specifically to the Belgian market, so instinctively I thought of **Belgium-based online retailers** who will benefit from a simple, efficient, and reliable app to track customer sentiment that informs their digital marketing strategy.  
 
 2. ***Where is the relevant data abundant and obtainable?***
 
