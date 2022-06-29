@@ -3,7 +3,7 @@
 
 
 ## Description ##
-*Necessity is the mother of invention*. This rings true with the impending **arrival of Amazon.BE** as a shake-up in the online Belgian retail market is certainly underway. Although trite yet equally true, there is opportunity in the inevitable crisis ensuing from the American e-commerce monolith crushing existing competition. ***In the shoes of a locally-based, Belgian small business owner possessing a parallel online retail outlet, how can they shore up on capital and muscle up on their business operations?*** The simple yet elegant solution lies in **enhancing customer experience--but with AI becoming mainstream, this solution can be high-tech, too.** 
+*Necessity is the mother of invention*. This rings true with the impending **arrival of Amazon.BE** as a shake-up in the online Belgian retail market is certainly underway. Although trite yet equally true, there is opportunity in the inevitable crisis ensuing from the American e-commerce monolith crushing existing competition. ***In the shoes of a locally-based, Belgian small business owner possessing a parallel online retail outlet, how can they shore up on capital and muscle up on their business operations?*** The simple yet elegant solution lies in **enhancing customer experience—but with AI becoming mainstream, this solution can be high-tech, too.** 
 
 
 ## Methodology ## 
@@ -19,7 +19,7 @@ I acquired the dataset needed for developing a machine learning solution from **
 
 3. ***What are the latest free and open-source software to accomplish the task?***
 
-I was given the wonderful opportunity of building the use case so I chose 'Natural Language Processing' (NLP) to be able to access and deploy a deep learning model for the first time. I had been intrigued by BERT, the state-of-the-art general-purpose NLP model developed by Google, and the transformer technique behind it. As an advocate of free and open-source software, I decided to give **distilBERT**--a lighter yet powerful version of BERT from the HuggingFace🤗 library--a try. Reduced in size by 40%, distilBERT retains 97% of BERT's language understanding capabilities but at 60% faster--hence I was convinced.  
+I was given the wonderful opportunity of building the use case so I chose 'Natural Language Processing' (NLP) to be able to access and deploy a deep learning model for the first time. I had been intrigued by BERT, the state-of-the-art general-purpose NLP model developed by Google, and the transformer technique behind it. As an advocate of free and open-source software, I decided to give **distilBERT** (a lighter yet powerful version of BERT from the HuggingFace🤗 library) a try. Reduced in size by 40%, distilBERT retains 97% of BERT's language understanding capabilities but at 60% faster—hence I was convinced.  
 
 
 ## The App ##
