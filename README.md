@@ -3,7 +3,7 @@
 
 
 ## Description ##
-*Necessity is the mother of invention*. This rings true with the impending **arrival of Amazon.BE** as a shake-up in the online Belgian retail market is certainly underway. Although trite yet equally true, there is opportunity in the inevitable crisis ensuing from  he American e-commerce monolith plowing over the existing competition. ***In the shoes of a locally-based, Belgian small business owner possessing a parallel online retail outlet, how can they shore up on capital and muscle up on their business operations?*** The simple yet elegant solution lies in **enhancing customer experience--but with AI becoming mainstream, this solution can be high-tech, too.** 
+*Necessity is the mother of invention*. This rings true with the impending **arrival of Amazon.BE** as a shake-up in the online Belgian retail market is certainly underway. Although trite yet equally true, there is opportunity in the inevitable crisis ensuing from the American e-commerce monolith plowing over the existing competition. ***In the shoes of a locally-based, Belgian small business owner possessing a parallel online retail outlet, how can they shore up on capital and muscle up on their business operations?*** The simple yet elegant solution lies in **enhancing customer experience--but with AI becoming mainstream, this solution can be high-tech, too.** 
 
 
 ## Methodology ## 
