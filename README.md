@@ -33,7 +33,7 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 ## Usage ##
 - To access the app, go to the **app.py** file. When you run the code, you will receive a http address that you can open in your preferred browser. (See C & D visualisations.) Paste a sample customer review in the text box as instructed. When you press the button to process the text, the software will return a result of either 'Positive👍' (meaning a positive rating) or a 'Negative👎' (meaning a negative rating) label.
 
-- The file **Trans_DistilBERT_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** is where the actual model was created. (See A & B visualisations.) The model is already trained and can be **found in the 'test' folder**. 
+- The file **Trans_DistilBERT_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** is where the actual model was created. (See A & B visualisations.) The model is already trained and can be found in the **'test' folder**. 
 
 - The file **LDA_Mallet_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** in the **'test' folder** is an early attempt to extract topic-keyword relationships based on a topic modelling NLP capability. It does not, as of now, contribute to the actual preprocessing of the data and development of the app.
 
