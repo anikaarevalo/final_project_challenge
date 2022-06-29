@@ -55,7 +55,7 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 <img width="650" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/final_project_challenge/blob/0d9c67a1a05cf218902244d1e7fb05a968bacaa2/assets/VI.model_training.png">
 
 
-                      B. Plotting the results of model training: High accuracy, low loss
+                      B. Plotting the results: High accuracy, low loss indicating positive model training results
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/final_project_challenge/blob/0d9c67a1a05cf218902244d1e7fb05a968bacaa2/assets/plot_distilBERT_retrained.png">
 
                       C. Customer review rating App: The user interface
