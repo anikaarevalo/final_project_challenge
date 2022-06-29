@@ -71,9 +71,11 @@ https://www.linkedin.com/in/anika-arevalo/
 
 ## Timeline ##
 
-09 days
+07 days
 
-20/06/2022 - 30/06/2022
+20/06/2022 - 28/06/2022
+
+(Delivery deadline: 30/06/2022)
 
 ## Personal situation ##
 This machine leaning softare is a minimum viable product (MVP) and would indeed benefit from further optimisation. Although I am impressed by the computational power of the model to accurately predict customer sentiment, this app can be further developed in the following ways:
