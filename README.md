@@ -3,6 +3,20 @@
 
 
 ## Description ##
+*Necessity is the mother of invention*. This rings true with the impending **arrival of Amazon.BE** as a shake-up in the online Belgian retail market is certainly underway. Although trite yet equally true, there is opportunity in the inevitable crisis ensuing from  he American e-commerce monolith plowing over the existing competition. ***In the shoes of a locally-based, Belgian small business owner possessing a parallel online retail outlet, how can they shore up on capital and muscle up on their business operations?*** The simple yet elegant solution lies in **customer experience--but with AI becoming mainstream, this solution can be high-tech, too.** 
+
+
+## Methodology ## 
+My approach to this use case took form and direction by answering the following **three key questions**:
+
+1. *Who needs help?* 
+Amazon is in fact coming very soon to cater specifically to the Belgian market, so instinctively I thought of **Belgium-based online retailers** who will benefit from a simple, efficient and reliable app to track customer sentiment that informs their digital marketing strategy.  
+
+2. *Where is the relevant data abundant and obtainable?*
+I acquired the dataset needed for developing a machine learning solution from **Tensor Flow's data base.**  Following the instructions of the project, i.e. leveraging 'Sentiment Analysis' as a NLP capability to determine over-all sentiment of Amazon product reviews, I downloaded the **Amazon US Personal Care Appliances customer review data which contains roughly 85,000 data points. 
+
+3. *What are the latest free and open-source software to accomplish the task?*
+I was given the wonderful opportunity of building the use case so I chose 'Natural Language Processing' (NLP) to be able to access and deploy a deep learning model for the first time. I had been intrigued by BERT, the state-of-the-art general-purpose NLP model developed by Google, and the transformer technique behind it. As an advocate of free and open-source software, I decided to give **distilBERT**--a lighter yet powerful version of BERT--a try. Reduced in size by 40%, distilBERT retains 97% of BERT's language understanding capabilities but at 60% faster--I was convinced.  
 
 
 ## The App ##
@@ -14,11 +28,11 @@ In the repository you can find the **requirements.txt** file. Make sure that the
 
 
 ## Usage ##
-
-
 - To access the app, go to the **app.py** file. When you run the code, you will receive a http address that you can open in your preferred browser. (See C & D visualisations.) Paste a sample customer review in the text box as instructed. When you press the button to process the text, the software will return a result of either 'Positive👍' (meaning a positive rating) or a 'Negative👎' (meaning a negative rating) label.
 
 - The file **Trans_DistilBERT_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** is where the actual model was created. (See A & B visualisations.) The model is already trained and can be **found in the 'test' folder**. 
+
+- The file **LDA_Mallet_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** in the **'test' folder** is an early attempt to extract topic-keyword relationships based on a topic modelling NLP capability. It does not, as of now, contribute to the actual preprocessing of the data and development of the app.
 
 
 ## Data Sources ##
@@ -62,5 +76,7 @@ https://www.linkedin.com/in/anika-arevalo/
 20/06/2022 - 30/06/2022
 
 ## Personal situation ##
-  
-  
+This machine leaning softare is a minimum viable product (MVP) and would indeed benefit from further optimisation. Although I am impressed by the computational power of the model to accurately predict customer sentiment, this app can be further developed in the following ways:
+- Upgrading the app to perform a **fine-grain sentiment analysis** that takes a 'neutral' position into consideration. 
+- Developing a second pipeline that can be integrated into the based pipeline in order to extract keywords. (See it on the file **LDA_Mallet_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** in the **'test' folder**).
+- Massive pre-trained machine learning models run the risk of overfitting (ie 'overgeneralising' from the initial data set to unseen yet relevant data), so for those who want to take my app for a spin, let me know if it indeed does! Thank you! 😊  
