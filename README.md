@@ -9,13 +9,16 @@
 ## Methodology ## 
 My approach to this use case took form and direction by answering the following **three key questions**:
 
-1. *Who needs help?* 
+1. ***Who needs help?*** 
+
 Amazon is in fact coming very soon to cater specifically to the Belgian market, so instinctively I thought of **Belgium-based online retailers** who will benefit from a simple, efficient and reliable app to track customer sentiment that informs their digital marketing strategy.  
 
-2. *Where is the relevant data abundant and obtainable?*
+2. ***Where is the relevant data abundant and obtainable?***
+
 I acquired the dataset needed for developing a machine learning solution from **Tensor Flow's data base.**  Following the instructions of the project, i.e. leveraging 'Sentiment Analysis' as a NLP capability to determine over-all sentiment of Amazon product reviews, I downloaded the **Amazon US Personal Care Appliances customer review data which contains roughly 85,000 data points. 
 
-3. *What are the latest free and open-source software to accomplish the task?*
+3. ***What are the latest free and open-source software to accomplish the task?***
+
 I was given the wonderful opportunity of building the use case so I chose 'Natural Language Processing' (NLP) to be able to access and deploy a deep learning model for the first time. I had been intrigued by BERT, the state-of-the-art general-purpose NLP model developed by Google, and the transformer technique behind it. As an advocate of free and open-source software, I decided to give **distilBERT**--a lighter yet powerful version of BERT--a try. Reduced in size by 40%, distilBERT retains 97% of BERT's language understanding capabilities but at 60% faster--I was convinced.  
 
 
