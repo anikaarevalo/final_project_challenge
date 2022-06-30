@@ -15,7 +15,7 @@ Amazon is in fact coming very soon to cater specifically to the Belgian market, 
 
 2. ***Where is the relevant data abundant and obtainable?***
 
-I acquired the dataset needed for developing a machine learning solution from **Tensor Flow's data base.**  Following the instructions of the project, i.e. leveraging 'Sentiment Analysis' as a NLP capability to determine over-all sentiment of Amazon product reviews, I downloaded the **Amazon US Personal Care Appliances customer review data which contains roughly 85,000 data points. 
+I acquired the dataset needed for developing a machine learning solution from **Tensor Flow's data base.**  Following the instructions of the project, i.e. leveraging 'Sentiment Analysis' as a NLP capability to determine over-all sentiment of Amazon product reviews, I downloaded the **Amazon US Personal Care Appliances customer review data** which contains roughly 85,000 data points. 
 
 3. ***What are the latest free and open-source software to accomplish the task?***
 
