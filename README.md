@@ -86,4 +86,4 @@ This machine leaning softare is a minimum viable product (MVP) and would indeed 
 - Developing a second pipeline that can be integrated into the base pipeline in order to extract keywords. (Come see in the file **LDA_Mallet_Sentiment_Model_for_Amazon_Personal_Care_Appliances.ipynb** inside the **'test' folder**).
 - My app could also benefit from an **automated scraping functionality** that can collect online customer feedback on demand, and a secondary **analytics dashboard** that can tally results on a periodic basis (according to the preference set by the end user).
 - Massive pre-trained machine learning models run the risk of overfitting (ie 'overgeneralising' from the initial dataset to unseen yet relevant data), so for **those who want to take my app for a spin**, let me know if it indeed does! Thank you! 😊  
-- Last but not the least, **deployment on the web** would be a plus!
+- That being said, **deployment on the web** would be a plus!
