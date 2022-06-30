@@ -130,3 +130,5 @@ dmypy.json
 
 # transformer model
 tdb_sentiment/
+
+.DS_Store
