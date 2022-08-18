@@ -1,7 +1,7 @@
-FROM python:3
+FROM tensorflow/tensorflow
 WORKDIR /app
 COPY ./requirements.txt /app/
 RUN pip install -r requirements.txt
 COPY . . 
-ENTRYPOINT ["python3"]
+ENTRYPOINT ["python"]
 CMD ["app.py"]
